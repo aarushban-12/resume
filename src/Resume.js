@@ -20,8 +20,8 @@ function Resume() {
             <p><i className="bi bi-telephone-fill"></i> 704-791-2210</p>
             <p><i className="bi bi-envelope-fill"></i> aarushban15@gmail.com</p>
             <p><i className="bi bi-geo-alt-fill"></i> Huntersville, NC, United States</p>
-            <p><i className="bi bi-globe2"></i> github.com/aarushban-12</p>
-            <p><i className="bi bi-globe2"></i> hackerrank.com/profile/aarushban15</p>
+            <p><i className="bi bi-globe2"></i> <a href="https://github.com/aarushban-12">github.com/aarushban-12</a></p>
+            <p><i className="bi bi-globe2"></i> <a href="https://hackerrank.com/profile/aarushban15">hackerrank.com/profile/aarushban15</a></p>
           </div>
         </div>
 
