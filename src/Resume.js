@@ -98,13 +98,13 @@ function Resume() {
           <div>
             <h4 className="dm-serif-display-regular">PROJECTS</h4>
 
-            <p style={{ fontWeight: "bold", marginTop: "30px" }}>GYMPRO</p>
+            <p style={{ fontWeight: "bold", marginTop: "30px" }}><a href="https://github.com/aarushban-12/gympro-fullstack-v2">GYMPRO</a></p>
             <p>
               A gym tracking web application designed to help you through every
               step of your fitness journey.
             </p>
 
-            <p style={{ fontWeight: "bold", marginTop: "30px" }}>TRADEHAVEN</p>
+            <p style={{ fontWeight: "bold", marginTop: "30px" }}><a href="https://ecommerce-store-beta-seven.vercel.app/">TRADEHAVEN</a></p>
             <p>
               An online retail platform where you can browse, shop, and purchase
               a wide variety of products easily and securely. Discover great
@@ -112,7 +112,7 @@ function Resume() {
               delivered right to your door.
             </p>
 
-            <p style={{ fontWeight: "bold", marginTop: "30px" }}>TASTY BITES</p>
+            <p style={{ fontWeight: "bold", marginTop: "30px" }}> <a href="https://tasty-bites-rose.vercel.app/">TASTY BITES</a></p>
             <p>
               A restaurant website where you can browse the menu, discover dishes,
               and order your favorite meals online.
